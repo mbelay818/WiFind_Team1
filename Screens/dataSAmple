@@ -1,0 +1,144 @@
+
+[
+	{	"Title" : "XFINITY432",
+		"Wifi_ID": "XFINITY432",
+		"Wifi_Password": "cv4h78p",
+		"Speed": "60 MBPS",
+		"Address": "190 Marietta St NW, Atlanta, GA 30303",
+		"Location": {
+			"longitude": -84.3948,
+			"latitude": 33.7579
+		},
+		"Start_Time": "1500",
+		"End_Time": "1800",
+		"Description": "Free wifi for student at CNN"
+	},
+	
+	{	"Title" : "GOOGLEFIBER5634",
+		"Wifi_ID": "GOOGLEFIBER5634",
+		"Wifi_Password": "HT650vDs",
+		"Speed": "80 MBPS",
+		"Address": "271 District Ave. , Atlanta, GA 30363",
+		"Location": {
+			"longitude": -84.3963,
+			"latitude": 33.7925
+		},
+		"Start_Time": "1400",
+		"End_Time": "1700",
+		"Description": "Free wifi for student at Atlantic Station"
+	},
+
+	{	"Title" : "MIDTOWNMARTA",
+		"Wifi_ID": "MIDTOWNMARTA",
+		"Wifi_Password": "jk8bN9L",
+		"Speed": "100 MBPS",
+		"Address": "41 Tenth St. NE,  Atlanta, GA 30309",
+		"Location": {
+			"longitude": -84.386345,
+			"latitude": 33.781121
+		},
+		"Start_Time": "1300",
+		"End_Time": "1600",
+		"Description": "Free wifi for student at MARTA"
+	},
+
+	{	"Title" : "BUSINESS78",
+		"Wifi_ID": "BUSINESS78",
+		"Wifi_Password": "T5RF397",
+		"Speed": "90 MBPS",
+		"Address": "1275 Peachtree St NE #500,  Atlanta, GA 30309",
+		"Location": {
+			"longitude": 84.3839,
+			"latitude": 33.7893
+		},
+		"Start_Time": 1200,
+		"End_Time": 1700,
+		"Description": "Free wifi for student at business #78"
+	},
+
+	{	"Title" : "ATT89MLP89",
+		"Wifi_ID": "ATT89MLP89",
+		"Wifi_Password": "43ax9j6bg",
+		"Speed": "80 MBPS",
+		"Address": "400 Park Dr NE,  Atlanta, GA 30306",
+		"Location": {
+			"longitude": -84.371338,
+			"latitude": 33.788181
+		},
+		"Start_Time": "1400",
+		"End_Time": "1900",
+		"Description": "Free wifi for student at Piedmont Park"
+	},
+
+	{	"Title" : "BUSINESS42",
+		"Wifi_ID": "BUSINESS42",
+		"Wifi_Password": "cv02sdx6",
+		"Speed": "85 MBPS",
+		"Address": "3393 Peachtree Rd NE Space #3078a,  Atlanta, GA 30326",
+		"Location": {
+			"longitude": -84.362142,
+			"latitude": 33.846292
+		},
+		"Start_Time": 1200,
+		"End_Time": 1700,
+		"Description": "Free wifi for student at business #42"
+	},
+
+	{	"Title" : "XFINITY398",
+		"Wifi_ID": "XFINITY398",
+		"Wifi_Password": "KN3D06SZ",
+		"Speed": "70 MBPS",
+		"Address": "209 Edgewood Ave SE,  Atlanta, GA 30303",
+		"Location": {
+			"longitude": -84.3796,
+			"latitude": 33.7540
+		},
+		"Start_Time": "1500",
+		"End_Time": "1900",
+		"Description": "Free wifi for student at Auburn Market"
+	},
+
+	{	"Title" : "ATT289",
+		"Wifi_ID": "ATT289",
+		"Wifi_Password": "S8njW21c",
+		"Speed": "60 MBPS",
+		"Address": "1100 Northside Dr NW,  Atlanta, GA 30318",
+		"Location": {
+			"longitude": -84.4080,
+			"latitude": 33.7848
+		},
+		"Start_Time": "1100",
+		"End_Time": "1500",
+		"Description": "Free wifi for student at Chick-fil-A #438"
+	},
+
+	{	"Title" : "GOOGLEFIBER894",
+		"Wifi_ID": "GOOGLEFIBER894",
+		"Wifi_Password": "N2axK97F3",
+		"Speed": "50 MBPS",
+		"Address": "265 Park Ave W NW,  Atlanta, GA 30313",
+		"Location": {
+			"longitude": -84.3932,
+			"latitude": 33.7600
+		},
+		"Start_Time": "1600",
+		"End_Time": "1800",
+		"Description": "Free wifi for student at Centennial Olympic Park"
+	},
+
+	{	"Title" : "BUSINESS89",
+		"Wifi_ID": "BUSINESS89",
+		"Wifi_Password": "xo72jd9n5",
+		"Speed": "90 MBPS",
+		"Address": "950 East Paces Ferry Rd NE #2800,  Atlanta, GA 30326",
+		"Location": {
+			"longitude": -84.3571,
+			"latitude": 33.8466
+		},
+		"Start_Time": "1300",
+		"End_Time": "1700",
+		"Description": "Free wifi for student at business #89"
+	}
+]
+
+
